@@ -20,7 +20,7 @@ jobs:
         uses: jstrieb/github-stats@master
         with:
           username: jeanbrito-dev
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.ACCESS_TOKEN }}
           # Deixe em branco se quiser incluir todos os repositórios
           exclude_repos:
           exclude_langs:
