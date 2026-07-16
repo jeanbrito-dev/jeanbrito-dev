@@ -22,7 +22,7 @@
 
 <br><br>
 
-## 🧭 Sobre mim
+## Sobre mim
 
 ```javascript
 const jeanBrito = {
@@ -39,7 +39,7 @@ Sou desenvolvedor fullstack com ênfase em **backend**, criando sistemas web mod
 
 <br>
 
-## 🛠️ Stacks & Ferramentas
+## Stacks & Ferramentas
 
 <div align="center">
 
@@ -69,19 +69,21 @@ Sou desenvolvedor fullstack com ênfase em **backend**, criando sistemas web mod
 
 <br>
 
-## 🚀 Projetos em destaque
+## Projetos em destaque
  
 <table align="center" width="100%">
 <tr>
 <td width="50%" valign="top">
-### 📦 [portfolio](https://github.com/jeanbrito-dev/portfolio)
+  
+### [portfolio](https://github.com/jeanbrito-dev/portfolio)
 Desenvolvedor Fullstack com foco em backend — sistemas web modernos, APIs REST e integração frontend/backend.
  
 `JavaScript` `React` `Node.js` `Express` `SQL`
  
 </td>
 <td width="50%" valign="top">
-### 🏙️ [city-backend](https://github.com/jeanbrito-dev/city-backend)
+  
+### [city-backend](https://github.com/jeanbrito-dev/city-backend)
 API e serviços de backend do projeto City.
  
 `JavaScript` `Node.js` `Express`
@@ -90,14 +92,16 @@ API e serviços de backend do projeto City.
 </tr>
 <tr>
 <td width="50%" valign="top">
-### 🖥️ [city-frontend](https://github.com/jeanbrito-dev/city-frontend)
+  
+### [city-frontend](https://github.com/jeanbrito-dev/city-frontend)
 Interface web do projeto City, consumindo a API do backend.
  
 `JavaScript` `React`
  
 </td>
 <td width="50%" valign="top">
-### 🌱 [ecotube](https://github.com/jeanbrito-dev/ecotube)
+  
+### [ecotube](https://github.com/jeanbrito-dev/ecotube)
 Site de entretenimento com foco em educação ambiental para jovens, professores e estudantes.
  
 `HTML` `CSS` `JavaScript`
@@ -106,37 +110,23 @@ Site de entretenimento com foco em educação ambiental para jovens, professores
 </tr>
 </table>
 <br>
-## 📊 Estatísticas do GitHub
+
+## Estatísticas do GitHub
  
-<div align="center">
-  <img src="https://raw.githubusercontent.com/jeanbrito-dev/jeanbrito-dev/main/generated/overview.svg" width="450"/>
-  <img src="https://raw.githubusercontent.com/jeanbrito-dev/jeanbrito-dev/main/generated/languages.svg" width="450"/>
-</div>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeanbrito-dev&theme=tokyonight&hide_border=true" width="600"/>
 </div>
-> ⚙️ Os dois primeiros cartões acima são gerados automaticamente pelo GitHub Actions (veja o workflow no final desta mensagem) e ficam salvos no seu próprio repositório — não dependem de nenhum serviço externo instável.
- 
 <br>
 
-## 📈 Atividade recente
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-> 💡 Dica: adicione o [github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph) ou o workflow [`gautamkrishnar/blog-post-workflow`](https://github.com/gautamkrishnar/blog-post-workflow) para preencher esta seção automaticamente com seus commits mais recentes.
-
-<br>
-
-## 📫 Vamos conversar
+## Vamos conversar
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/jean-brito-dev">
-  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge" />
 </a>
 <a href="https://jeanbrito.vercel.app/">
-  <img src="https://img.shields.io/badge/-Portfólio-2563EB?style=for-the-badge&logo=About.me&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Portfólio-2563EB?style=for-the-badge" />
 </a>
 
 <br><br>
