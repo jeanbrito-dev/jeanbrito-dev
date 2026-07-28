@@ -29,9 +29,7 @@ const jeanBrito = {
   role: "Desenvolvedor Fullstack",
   focus: "Backend • APIs REST • Sistemas Web",
   location: "Caraguatatuba, SP - Brasil",
-  stack: ["JavaScript", "Node.js", "Express", "React", "Tailwind CSS", "SQL"],
-  currentGoal: "Construir soluções reais para problemas reais",
-  funFact: "Aprender na prática > decorar teoria"
+  stack: ["JavaScript", "Node.js", "Express", "React", "Tailwind CSS", "SQL"]
 };
 ```
 
