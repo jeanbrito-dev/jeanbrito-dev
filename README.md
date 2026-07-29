@@ -21,23 +21,29 @@
 </div>
 <br>
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Desenvolvedor+Fullstack;Foco+em+Backend+%26+APIs+REST;Node.js+%2B+React+%2B+SQL;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=3500&pause=1500&color=22D3EE&center=true&vCenter=true&width=720&lines=Frontend+Developer;Creating+modern+web+experiences;React+%7C+Node.js+%7C+Express"
+  alt="Typing SVG"
+/>
 </div>
 <br><br>
 
-## Sobre mim
+## About Me
 ```javascript
 const jeanBrito = {
-  role: "Desenvolvedor Fullstack",
-  focus: "Backend • APIs REST • Sistemas Web",
-  location: "Caraguatatuba, SP - Brasil",
+  role: "Full Stack Developer",
+  focus: "Backend • REST APIs • Web Applications",
+  location: "Caraguatatuba, SP - Brazil",
   stack: ["JavaScript", "Node.js", "Express", "React", "Tailwind CSS", "SQL"]
 };
 ```
-Sou desenvolvedor fullstack com ênfase em **backend**, criando sistemas web modernos, **APIs REST** e aplicações que resolvem problemas reais. Gosto de unir frontend e backend em produtos completos, sempre buscando código limpo, organizado e escalável.
+
+I am a full stack developer with an emphasis on **backend**, building modern web applications, **REST APIs**, and software that solves real-world problems. I enjoy combining frontend and backend to create complete products while always striving for clean, organized, and scalable code.
+
 <br>
 
-## Stacks & Ferramentas
+## Tech Stack & Tools
+
 <div align="center">
 
 **Frontend**
@@ -50,99 +56,116 @@ Sou desenvolvedor fullstack com ênfase em **backend**, criando sistemas web mod
 <img src="https://skillicons.dev/icons?i=nodejs,express,js,prisma&theme=dark" />
 <br><br>
 
-**Banco de Dados**
+**Databases**
 <br><br>
 <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" />
 <br><br>
 
-**Ferramentas & Workflow**
+**Tools & Workflow**
 <br><br>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" />
 
 </div>
+
 <br>
 
-## Projetos em destaque
+## Featured Projects
 
 <table align="center" width="100%">
 <tr>
 <td width="50%" valign="top">
 
 ### [portfolio](https://github.com/jeanbrito-dev/portfolio)
-Desenvolvedor Fullstack com foco em backend — sistemas web modernos, APIs REST e integração frontend/backend.
+
+Full stack developer focused on backend — modern web applications, REST APIs, and frontend/backend integration.
 
 `JavaScript` `React` `Node.js` `Express` `SQL`
 
 </td>
+
 <td width="50%" valign="top">
 
 ### [city-backend](https://github.com/jeanbrito-dev/city-backend)
-API e serviços de backend do projeto City.
+
+Backend API and services for the City project.
 
 `JavaScript` `Node.js` `Express`
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
 ### [city-frontend](https://github.com/jeanbrito-dev/city-frontend)
-Interface web do projeto City, consumindo a API do backend.
+
+Web interface for the City project, consuming the backend API.
 
 `JavaScript` `React`
 
 </td>
+
 <td width="50%" valign="top">
 
 ### [ecotube](https://github.com/jeanbrito-dev/ecotube)
-Site de entretenimento com foco em educação ambiental para jovens, professores e estudantes.
+
+Entertainment website focused on environmental education for young people, teachers, and students.
 
 `HTML` `CSS` `JavaScript`
 
 </td>
 </tr>
 </table>
+
 <br>
 
-## Estatísticas do GitHub
+## GitHub Statistics
 
 <div align="center">
 
 <img
-  src="https://streak-stats.demolab.com?user=jeanbrito-dev&theme=tokyonight&hide_border=true&border_radius=10"
   width="100%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jeanbrito-dev&theme=tokyonight"
 />
 
 <br><br>
 
-<img
-  height="170"
-  src="https://github-readme-stats.vercel.app/api?username=jeanbrito-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
-/>
-
-<img
-  height="170"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanbrito-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-/>
+<p align="center">
+  <img
+    width="32%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jeanbrito-dev&theme=tokyonight"
+  />
+  <img
+    width="32%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jeanbrito-dev&theme=tokyonight&utcOffset=-3"
+  />
+  <img
+    width="32%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jeanbrito-dev&theme=tokyonight"
+  />
+</p>
 
 </div>
 
 <br>
 
-### Atividade recente
+### Recent Activity
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=jeanbrito-dev&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 
 </div>
+
 <br>
 
-## Vamos conversar
+## Let's Connect
+
 <div align="center">
 <a href="https://www.linkedin.com/in/jean-brito-dev">
   <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge" />
 </a>
+
 <a href="https://jeanbrito.vercel.app/">
-  <img src="https://img.shields.io/badge/-Portfólio-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Portfolio-2563EB?style=for-the-badge" />
 </a>
 </div>
 
