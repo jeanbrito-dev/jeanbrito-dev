@@ -28,17 +28,44 @@
 </div>
 <br><br>
 
-## About Me
-```javascript
-const jeanBrito = {
-  role: "Full Stack Developer",
-  focus: "Backend • REST APIs • Web Applications",
-  location: "Caraguatatuba, SP - Brazil",
-  stack: ["JavaScript", "Node.js", "Express", "React", "Tailwind CSS", "SQL"]
-};
-```
+## GitHub Statistics
 
-I am a full stack developer with an emphasis on **backend**, building modern web applications, **REST APIs**, and software that solves real-world problems. I enjoy combining frontend and backend to create complete products while always striving for clean, organized, and scalable code.
+<div align="center">
+
+<img
+  width="100%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jeanbrito-dev&theme=tokyonight"
+/>
+
+<br><br>
+
+<p align="center">
+  <img
+    width="32%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jeanbrito-dev&theme=tokyonight"
+  />
+  <img
+    width="32%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jeanbrito-dev&theme=tokyonight&utcOffset=-3"
+  />
+  <img
+    width="32%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jeanbrito-dev&theme=tokyonight"
+  />
+</p>
+
+</div>
+
+<br>
+
+## About Me
+> **Full Stack Developer**  
+> **Focus:** Backend • REST APIs • Web Applications  
+> **Location:** Caraguatatuba, SP — Brazil
+
+Building modern web applications with an emphasis on **backend**, designing **REST APIs**, and developing software that solves real-world problems.
+
+I enjoy combining frontend and backend to create complete products while maintaining **clean**, **organized**, and **scalable** code.
 
 <br>
 
@@ -116,36 +143,6 @@ Entertainment website focused on environmental education for young people, teach
 </td>
 </tr>
 </table>
-
-<br>
-
-## GitHub Statistics
-
-<div align="center">
-
-<img
-  width="100%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jeanbrito-dev&theme=tokyonight"
-/>
-
-<br><br>
-
-<p align="center">
-  <img
-    width="32%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jeanbrito-dev&theme=tokyonight"
-  />
-  <img
-    width="32%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jeanbrito-dev&theme=tokyonight&utcOffset=-3"
-  />
-  <img
-    width="32%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jeanbrito-dev&theme=tokyonight"
-  />
-</p>
-
-</div>
 
 <br>
 
