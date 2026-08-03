@@ -1,8 +1,5 @@
 <div align="center">
-<img
-  src="https://cdn.jsdelivr.net/gh/jeanbrito-dev/jeanbrito-dev@main/assets/readme-banner.svg"
-  width="100%"
-/>
+<img src="banner.svg" width="100%" />
 
 <a href="https://jeanbrito.vercel.app/">
 <img src="https://img.shields.io/badge/PORTFOLIO-111827?style=for-the-badge&logo=vercel&logoColor=22D3EE&color=111827"/>
