@@ -30,30 +30,9 @@
 
 ## GitHub Statistics
 
-<div align="center">
-
-<img
-  width="100%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jeanbrito-dev&theme=tokyonight"
-/>
-
-<br><br>
-
-<p align="center">
-  <img
-    width="32%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jeanbrito-dev&theme=tokyonight"
-  />
-  <img
-    width="32%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jeanbrito-dev&theme=tokyonight&utcOffset=-3"
-  />
-  <img
-    width="32%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jeanbrito-dev&theme=tokyonight"
-  />
-</p>
-
+<div data-importer="stats" align="center">
+  <img src="https://streak-stats.demolab.com?user=jeanbrito-dev&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/jeanbrito-dev/jeanbrito-dev/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 <br>
