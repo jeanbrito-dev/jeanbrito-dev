@@ -1,8 +1,9 @@
 <div align="center">
-<img
-  src="https://capsule-render.vercel.app/api?type=venom&height=260&color=gradient&customColorList=12,20,24,30&text=Jean%20Brito&fontColor=00e5ff&fontSize=58&animation=fadeIn&stroke=ffffff&strokeWidth=1&desc=Building%20Modern%20Web%20Applications&descAlignY=68"
-  width="100%"
-/>
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jeanbrito-dev/jeanbrito-dev/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jeanbrito-dev/jeanbrito-dev/pacman-output/galaga-contribution-graph.svg?game=galaga">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jeanbrito-dev/jeanbrito-dev/pacman-output/galaga-contribution-graph.svg?game=galaga">
+</picture>
 
 <a href="https://jeanbrito.vercel.app/">
 <img src="https://img.shields.io/badge/PORTFOLIO-111827?style=for-the-badge&logo=vercel&logoColor=22D3EE&color=111827"/>
