@@ -18,11 +18,10 @@
 
 <div align="center">
 
-<a href="https://github.com/jeanbrito-dev/portfolio"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/dark/projects/portfolio.svg"><img width="49%" src="./assets/light/projects/portfolio.svg" alt="portfolio"></picture></a>
+<a href="https://github.com/jeanbrito-dev/mareln-backend"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/dark/projects/mareln-backend.svg"><img width="49%" src="./assets/light/projects/mareln-backend.svg" alt="mareln-backend"></picture></a>
+<a href="https://github.com/jeanbrito-dev/mascot_assistent"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/dark/projects/mascot_assistent.svg"><img width="49%" src="./assets/light/projects/mascot_assistent.svg" alt="mascot_assistent"></picture></a>
 <a href="https://github.com/jeanbrito-dev/city-backend"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/dark/projects/city-backend.svg"><img width="49%" src="./assets/light/projects/city-backend.svg" alt="city-backend"></picture></a>
 <a href="https://github.com/jeanbrito-dev/city-frontend"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/dark/projects/city-frontend.svg"><img width="49%" src="./assets/light/projects/city-frontend.svg" alt="city-frontend"></picture></a>
-<a href="https://github.com/jeanbrito-dev/ecotube"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/dark/projects/ecotube.svg"><img width="49%" src="./assets/light/projects/ecotube.svg" alt="ecotube"></picture></a>
-
 </div>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/dark/headings/stack.svg"><img width="100%" src="./assets/light/headings/stack.svg" alt="Tech stack"></picture>
