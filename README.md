@@ -27,7 +27,7 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/dark/headings/stack.svg"><img width="100%" src="./assets/light/headings/stack.svg" alt="Tech stack"></picture>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/dark/stack.svg"><img width="100%" src="./assets/light/stack.svg" alt="React, TypeScript, JavaScript, Tailwind CSS, HTML, CSS, Node.js, Express, Prisma, REST APIs, MongoDB, PostgreSQL, MySQL, Firebase, Git, GitHub, VS Code, Figma, Vercel"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/dark/stack.svg"><img width="100%" src="./assets/light/stack.svg" alt="React, Next.js, React Native, TypeScript, JavaScript, Tailwind CSS, HTML, CSS, Node.js, Express, Nest.js, Prisma, REST APIs, PostgreSQL, MySQL, Git, GitHub, Docker, VS Code, Figma, Vercel"></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/dark/headings/activity.svg"><img width="100%" src="./assets/light/headings/activity.svg" alt="Activity"></picture>
 
